@@ -6,8 +6,8 @@
 access token
 
 2. ```
-pip install -r requirements.txt
-python server.py
-```
+   pip install -r requirements.txt
+   python server.py
+   ```
 
 3. Point your browser to `frontend/index.html`
